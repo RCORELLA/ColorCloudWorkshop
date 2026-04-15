@@ -1,4 +1,4 @@
-# Lab-07: Generating Customers
+# Lab-06: Generating Customers
 
 ## Modify the Prompt
 
