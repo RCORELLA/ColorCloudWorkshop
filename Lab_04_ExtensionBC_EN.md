@@ -1,4 +1,4 @@
-# Lab-05: Business Central Extension with AI - OpenAI Integration
+# Lab-04: Business Central Extension with AI - OpenAI Integration
 
 ## Objective
 
@@ -180,5 +180,5 @@ This project is an educational lab for learning AI integration in Business Centr
 ---
 
 **Author:** Roberto Corella  
-**Date:** October 2025  
+**Date:** April 2026  
 **Version:** 1.0.0
