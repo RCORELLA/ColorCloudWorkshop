@@ -1,6 +1,19 @@
 # Lab-06: Generating Customers
 
-## Modify the Prompt
+## Modify the Prompts
+
+
+Modify the system prompt
+
+```al
+Metaprompt := 'You are a helpful Asistant to help to create records in Business Central.' +
+                      'If the question is not related to create records, say "I can not do this task.  Only can create records" and do not provide any other information. ' +
+                      'Do not include any disclaimers or additional information. ' +
+                      'Your responses should be concise and to the point.';
+
+```
+
+Modify the user prompt
 
 ```al
 local procedure GetUserPrompt(Prompt: Text): Text
