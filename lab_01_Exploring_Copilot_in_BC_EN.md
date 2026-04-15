@@ -1,4 +1,4 @@
-# Lab 04 - Copilot Use Cases in Business Central
+# Lab 01 - Copilot Use Cases in Business Central
 
 ## Objective
 In this lab you will explore the different Copilot functionalities natively integrated into Business Central. You will learn how to use data analysis, conversational chat, configuration generation, and task automation through natural language prompts.
