@@ -92,4 +92,4 @@ Congratulations! You have successfully integrated AI capabilities into Business 
 
 *Instructor: Roberto Corella*  
 *LinkedIn: https://www.linkedin.com/in/robertocorella/*  
-*Date: October 2025*
+*Date: April 2026*
